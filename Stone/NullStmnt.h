@@ -12,8 +12,7 @@ class NullStmnt : public ASTList
 public:
 	static const std::string TREE_ID;
 public:
-	NullStmnt()
-	{}
+	NullStmnt();
 };
 
 
