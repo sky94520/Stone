@@ -1,0 +1,9 @@
+.vs
+Debug/**
+Stone.sln
+**/Debug/**
+Stone/Stone.*
+Stone/Release
+**/Release
+*.sln
+*.vcxproj*
